@@ -1,0 +1,12 @@
+1.To install Matplotlib
+pip install --no-index -f "PATH ex D:\MATPLOTLIB" matplotlib
+
+
+
+
+
+
+
+
+2.To Download other Packages
+pip download -d "PATH" matplotlib
